@@ -25,4 +25,4 @@ Currently, the only supported file format is PLY (both ASCII and binary).
 
 ![Demo](https://github.com/jankais3r/HoloScan/blob/main/demo.gif)
 
-See it in action [here](https://youtu.be/Jz1amOBU1CA).
+See it in action [here](https://youtu.be/c4W8ymGWy14).
